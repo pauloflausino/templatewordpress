@@ -2,13 +2,6 @@
 
 Desenvolvimento de um tema personalizado em Wordpress.
 
-### Após a finalização do teste: ####
-
-* Coloque seu projeto no BitBucket
-* Faça Utilização de gitflow
-* Forneça instruções para roda o projeto localmente
-* Passe o link para o clone
-
 ### O que é preciso para rodar o projeto localmente? ###
 
 * O projeto pode rodar em Xampp, Laragon, Apache
