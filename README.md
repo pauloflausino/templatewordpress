@@ -17,18 +17,18 @@ Desenvolvimento de um tema personalizado em Wordpress.
 ### Clone o projeto ###
 * Faça clone do projeto:
 
-* git clone https://pauloflausino1983@bitbucket.org/flaubers/customize_wp.git
+* git clone https://github.com/pauloflausino/templatewordpress
 
 ### CRIAR BANCO DE DADOS ###
 * pegar arquivo sql na pasta dump_bancodedados
 * upar os registros no seu banco de dados 
-* Sugestão DB: customize_wp
+* Sugestão DB: templatewordpress
 
 ### Configurar arquivo wp-config.php
-* DB Name: customize_wp
+* DB Name: templatewordpress
 * user: root
 * password: yourpassword
 
-### localhost/customize_wp/login
+### localhost/templatewordpress/login
 * user: admin
 * password: admin
